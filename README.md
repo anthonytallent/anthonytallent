@@ -6,7 +6,7 @@ Hello! I’m Anthony, I'm a Software Engineer who likes story based video games,
 <p align="center">
 <br>
 Feel free to connect with me through LinkedIn or Email below: <br>
-  <a target="_blank"href="https://www.linkedin.com/in/anthony-blackwell-tallent-b36916255/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a target="_blank"href="https://www.linkedin.com/in/anthonytallent/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:anthonytallent567@gmail.com?subject=Message%20From%20my%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <hr>
